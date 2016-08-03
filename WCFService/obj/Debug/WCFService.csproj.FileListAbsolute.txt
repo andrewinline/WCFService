@@ -1,0 +1,6 @@
+c:\users\andrew\documents\visual studio 2013\Projects\WCFServiceCalculator2\WCFService\WCFService\bin\Debug\WCFService.dll.config
+c:\users\andrew\documents\visual studio 2013\Projects\WCFServiceCalculator2\WCFService\WCFService\bin\Debug\WCFService.dll
+c:\users\andrew\documents\visual studio 2013\Projects\WCFServiceCalculator2\WCFService\WCFService\bin\Debug\WCFService.pdb
+c:\users\andrew\documents\visual studio 2013\Projects\WCFServiceCalculator2\WCFService\WCFService\obj\Debug\WCFService.dll
+c:\users\andrew\documents\visual studio 2013\Projects\WCFServiceCalculator2\WCFService\WCFService\obj\Debug\WCFService.pdb
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\WCFServiceCalculator2\WCFService\WCFService\obj\Debug\WCFService.csprojResolveAssemblyReference.cache
